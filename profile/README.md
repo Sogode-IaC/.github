@@ -1,6 +1,6 @@
 # Sogode Infrastructure as Code example organisation
 ---
 
-Here's is where we will be publishing code to be used in our examples to teach about NetOps.  
+Here's where we publish code to be used in our examples to teach about NetOps.  
 
-See the main website for mrore information about Sogode: https://sogode.com/
+See the main website for more information about Sogode: https://sogode.com/
